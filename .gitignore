@@ -28,3 +28,6 @@ Desktop.ini
 
 # ---- Misc ----
 *.log
+
+# ---- 本地工作数据 ----
+.workbuddy/
