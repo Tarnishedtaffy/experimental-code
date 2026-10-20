@@ -1,0 +1,30 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- C / C++ ----
+*.o
+*.obj
+*.exe
+*.out
+*.gch
+*.dSYM/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+
+# ---- OS ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- Misc ----
+*.log
